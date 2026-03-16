@@ -1,5 +1,3 @@
-function add(a,b) //utils.js
-{
-    return a + b;
+function add(a, b) {
+    return a - b;
 }
-module.exports = {add};
